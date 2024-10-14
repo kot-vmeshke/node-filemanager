@@ -1,0 +1,12 @@
+{
+  "name": "filemanager",
+  "version": "1.0.0",
+  "description": "Training project for Node.js course at RS School",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node ./index.js"
+  },
+  "author": "Hanna Babai",
+  "license": "MIT"
+}
